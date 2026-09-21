@@ -1,0 +1,4 @@
+# ACL Anthology — Wave 3 (loc OFFLINE tren anthology+abstracts.bib.gz, DA CHAY)
+# Tieu chi: (title+abstract) khop >=1 term khoi A3; KHONG doi hoi C3 vi venue da la
+# NLP; co ghi co c3_hit tung entry (acl_w3_flags.csv) de doi chieu do nhay.
+# Khong gioi han nam (anthology co bai tu 1965).
