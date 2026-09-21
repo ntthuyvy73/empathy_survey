@@ -1,0 +1,642 @@
+﻿acl_key,year,c3_hit,title
+zhong-etal-2026-cognitive,2026,yes,Cognitive Policy-Driven {LLM} for Diagnosis and Intervention of Cognitive Distortions in Emotional Support Conversation
+zhang-etal-2026-sentient,2026,yes,Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models
+zhang-etal-2026-preference,2026,yes,Preference Learning Unlocks {LLM}s' Psycho-Counseling Skills
+zhang-etal-2026-ma2p,2026,yes,{MA}$^{2}${P}: A Meta-Cognitive Autonomous Intelligent Agents Framework for Complex Persuasion
+zeng-nakano-2026-schema,2026,yes,Schema-Guided Response Generation using Multi-Frame Dialogue State for Motivational Interviewing Systems
+yoo-rosen-2026-counterfactual,2026,yes,Counterfactual Auditing of Cross-Cultural Variation in {LLM}-Generated Medical Advice
+ye-etal-2026-emoharbor,2026,yes,{E}mo{H}arbor: Evaluating Personalized Emotional Support by Simulating the User{'}s Internal World
+yang-etal-2026-mithinker,2026,yes,{MIT}hinker: A Plug-and-Play Policy-Optimized Thinker For Motivational Interviewing Counseling
+yang-etal-2026-empathy,2026,yes,Empathy in Diversity: Personalized Depression and Anxiety Therapy via Dialogue State Tracking and Patient-Aware Planning
+xu-etal-2026-puppet,2026,yes,{PUPPET}: Neural-Symbolic Standardized Patients for Mental Health
+xu-abdullah-2026-creating,2026,yes,Creating Multilingual Mental Health Dialogue Datasets: Limits of Persona-Based Localization via Nationality and Language
+wu-etal-2026-emotion,2026,yes,Emotion Trajectory-aware Retrieval for {M}arkov-driven Emotion Anticipation in {LLM}-based Emotional Support Conversation
+welivita-etal-2026-generates,2026,yes,Who Generates More Empathetic Responses{---}Humans or {LLM}s? A Comparative Evaluation with Human and {LLM} Judges
+wang-etal-2026-reg,2026,no,{REG}: Retrieval via Emotion Similarity for Guiding Empathetic Dialogue Generation
+wang-etal-2026-psychological,2026,yes,Psychological Counseling Cannot Be Achieved Overnight: Automated Psychological Counseling Through Multi-Session Conversations
+wang-etal-2026-perm,2026,yes,{PERM}: Psychology-grounded Empathetic Reward Modeling for Large Language Models
+wang-etal-2026-genpt,2026,yes,{G}en{PT}: Beyond Self-Report for Reliable {LLM} Psychometrics via Generative Projective Testing
+wang-etal-2026-causal,2026,yes,Causal-{ESC}: Reliable Policy Learning for Emotional Support Conversation via Causal Inference
+tint-etal-2026-expressivitybench,2026,yes,{E}xpressivity{B}ench: Can {LLM}s Communicate Implicitly?
+thummar-perez-rosas-2026-responses,2026,no,From Responses to Trajectories: Modeling the Development of Reflective Listening Skills
+tang-etal-2026-trace,2026,yes,{TRACE}: Two-Phase {RL} for Causal Graph Exploration and Deeper Psychological Intervention in Dynamic Counseling Scenarios
+sui-etal-2026-tea,2026,yes,{TEA}-Bench: A Systematic Benchmarking of Tool-enhanced Emotional Support Dialogue Agent
+son-etal-2026-dont,2026,yes,{I} Don{'}t Need Solution. {I} Need Emotional Support : Empathetic {LLM}s based on Emotional Validation
+shi-etal-2026-univocal,2026,no,{U}ni{V}ocal: Unified Speech-Singing Code-Switching Synthesis
+shahzad-etal-2026-upr,2026,yes,{UPR} at {S}em{E}val-2026 Task 9: Multi-Label Classification of Polarization Across Social Dimensions and Manifestation Identification in {U}rdu
+sanchez-carmona-etal-2026-randomized,2026,yes,Randomized Controlled Trials as the Gold-Standard for Evaluating {LLM}s: A Primer for Biomedical {NLP} Researchers
+s-etal-2026-igniters,2026,yes,Igniters@{LTEDI} 2026: Multilingual Gender-Inclusive Language Generation with m{T}5 and Counter-Narrative Generation Using Llama-3
+s-b-priya-b-2026-rspectnlp,2026,yes,{R}spect{NLP}@{LT}-{EDI} 2026:Rubric-Driven Prompting for Safe Multilingual Counter Narrative Generation
+rudolph-etal-2026-transition,2026,no,Transition-Matrix Regularization for Next Dialogue Act Prediction in Counselling Conversations
+refoua-bar-2026-thinking,2026,no,Thinking With a Machine: An {AI} Agent{'}s Account of Agentic Research in Clinical Psychology
+rao-etal-2026-empath,2026,yes,{EMPATH}: An Ensemble Method for Automatic Fine-Grained Turn-Level Dialogue Empathy Evaluation with a Novel Emotional Distance Metric
+randhawa-etal-2026-empathy,2026,yes,Empathy Applicability Modeling for General Health Queries
+qiu-lan-2026-interactive,2026,yes,Interactive Agents: Simulating Counselor-Client Psychological Counseling via Role-Playing {LLM}-to-{LLM} Interactions
+qiu-etal-2026-chatanime,2026,yes,{C}hat{A}nime: Towards User-Centered Emotional Support in {LLM}-based Virtual Character Chat
+qi-etal-2026-care,2026,yes,{CARE}-{CR}: Context-Aware Routing and Expert Fusion for Multi-Preference Cognitive Restructuring
+puspo-etal-2026-role,2026,yes,On the Role of Context in {LLM} Alignment to Mental Health Counseling Competencies
+park-etal-2026-psyprobe,2026,yes,{P}sy{P}robe: Proactive and Interpretable Dialogue through User State Modeling for Exploratory Counseling
+pan-etal-2026-psycheval,2026,no,{P}sych{E}val: A Multi-Session and Multi-Therapy Benchmark for High-Realism {AI} Psychological Counselor
+p-jagadeeshan-2026-ihlc,2026,no,{IHLC}@{LT}-{EDI} 2026: Steering Toward Inclusivity - A Representation Engineering for Gender-Neutral Rewriting
+nguyen-quan-2026-works,2026,yes,Which Works Best for {V}ietnamese? {A} Practical Study of Information Retrieval Methods across Domains
+na-etal-2026-overview,2026,yes,Overview of the {P}sy{D}ef{D}etect Shared Task at {B}io{NLP} 2026: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations
+montesano-etal-2026-mostly,2026,yes,"Mostly Grounded, Occasionally Risky: Expert Evaluation of {LLM}-Generated Supervisory Feedback in a Psychotherapy Training Simulator"
+meng-etal-2026-storymi,2026,yes,{S}tory{MI}: Steerable Multi-Agent Therapeutic Dialogue Generation
+mendonca-etal-2026-medal,2026,yes,{MEDAL}: A Framework for Benchmarking {LLM}s as Multilingual Open-Domain Dialogue Evaluators
+mazhar-etal-2026-measuring,2026,yes,Measuring What Matters!! Assessing Therapeutic Principles in Mental-Health Conversation
+maheswaran-desarkar-2026-unified,2026,yes,A Unified View on Emotion Representation in Large Language Models
+luo-laban-2026-spasm,2026,yes,{SPASM}: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation
+luo-laban-2026-dialogguard,2026,yes,{D}ialog{G}uard: Multi-Agent Psychosocial Safety Evaluation Interface of Sensitive {LLM} Responses
+luo-etal-2026-aeq,2026,no,{AEQ}-Bench: Measuring Empathy of Omni-Modal Large Models
+liu-etal-2026-tailored,2026,yes,Tailored Emotional {LLM}-Supporter: Enhancing Cultural Sensitivity
+lia-roy-dipta-2026-cross,2026,yes,"Cross-Lingual Sentiment Misalignment: Auditing Multilingual Language Models for Inversion Risk, Dialectal Representation, and Affective Stability"
+li-etal-2026-recap,2026,yes,{RECAP}: Resistance Capture in Text-based Mental Health Counseling with Large Language Models
+li-etal-2026-community,2026,no,Community-Aware Assessment of Social Textual Engagement and Resonance: A Human-Centric Perspective on User-Generated Content Evaluation
+li-etal-2026-cflowpsyd,2026,yes,{CF}low{P}sy{D}: An Analysis-Enhanced Dataset for Asynchronous Psychological Counseling through Self-Optimizing Multi-Agent Framework
+lee-etal-2026-mhsafeeval,2026,yes,{MHS}afe{E}val: Role-Aware Interaction-Level Evaluation of Mental Health Safety in Large Language Models
+lai-etal-2026-synthesis,2026,yes,From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset
+kumaresan-etal-2026-findings,2026,no,Findings of Shared Task on Counter Narrative Generation on Homophobic and Transphobic Comments
+kim-etal-2026-phasemi,2026,yes,{P}hase{MI}: A Motivational Interviewing Dataset for Enhancing Phase Progression in {LLM}-based Counseling
+kim-etal-2026-open,2026,no,Open Your Model{'}s Eyes: Video and Context-Aware Multimodal Backchannel Prediction
+kim-etal-2026-multi-view,2026,yes,Multi-View Attention Multiple-Instance Learning Enhanced by {LLM} Reasoning for Cognitive Distortion Detection
+kim-etal-2026-kind,2026,yes,Being Kind Isn{'}t Always Being Safe: Diagnosing Affective Hallucination in {LLM}s
+ji-etal-2026-stride,2026,yes,{STRIDE}-{ED}: A Strategy-Grounded Stepwise Reasoning Framework for Empathetic Dialogue Systems
+ikegami-etal-2026-dialogue,2026,no,A Dialogue Agent to Let Users Experience and Gently Enhance the ``Gyaru-Mind''
+huang-etal-2026-zzucs,2026,no,zzucs at {P}sy{D}ef{D}etect: Bridging Long-Tail Imbalance and Clinical Rubrics for {DMRS} Defense-Level Detection
+hsu-etal-2026-beyond,2026,yes,Beyond Evidence: Belief-Chain Conditioning for Persuasive Misinformation Debunking Explanation
+hong-etal-2026-freezeempath,2026,yes,{F}reeze{E}mpath: Efficient Training for Empathetic Spoken Chatbots with Frozen {LLM}s
+hoang-etal-2026-llms,2026,yes,{LLM}s as Standardised Patients for Motivational Interviewing: How Faithful Are They?
+heo-etal-2026-stress,2026,yes,Stress-Testing Emotional Support Models: Moving from Homogeneous to Diverse Help Seekers
+hazel-etal-2026-empathy,2026,yes,Empathy as interactional accomplishment in clinical interactions with a conversational agent
+hasan-etal-2026-enhancing,2026,yes,Enhancing Mental Health Counseling Support in {B}angladesh using Culturally-grounded Knowledge
+guo-etal-2026-emos,2026,yes,{E}mo{S}: A High-Fidelity Multimodal Benchmark for Fine-grained Streaming Emotional Understanding
+gong-etal-2026-theory,2026,yes,Does Theory of Mind Improvement Really Benefit Human-{AI} Interactions? Empirical Findings from Interactive Evaluations
+gligorovic-etal-2026-howd,2026,no,``How{'}d You Type That So Fast?'' A Descriptive Analysis of Counselor Message Text Reuse in Text-Based Crisis Counseling
+garg-etal-2026-designing,2026,yes,Designing Structured Conversational Support for Tuberculosis Treatment Adherence and Patient Coping
+gao-etal-2026-es4r,2026,yes,{ES}4{R}: Speech Encoding Based on Prepositive Affective Modeling for Empathetic Response Generation
+galat-rizoiu-2026-uts,2026,no,{UTS} at {P}sy{D}ef{D}etect: Multi-Agent Councils and Absence-Based Reasoning for Defense Mechanism Classification
+fu-etal-2026-enpmr,2026,yes,{ENPMR}-Bench: Benchmarking Proactive Memory Retrieval for Emotional Support Agents
+feng-etal-2026-psychain,2026,no,{P}sy{C}hain: A Collaborative Chain-of-Agents Framework for Generating Personalized and Professional Counseling Dialogues
+deng-etal-2026-ethicmind,2026,yes,{E}thic{M}ind: A Risk-Aware Framework for Ethical-Emotional Alignment in Multi-Turn Dialogue
+deng-etal-2026-cogemp,2026,yes,{C}og{E}mp:A Cognitive Empathy-Oriented Dialogue System for Structured Psychological Counseling
+demeocq-etal-2026-attachment,2026,yes,The Attachment Index: Auditing Attachment Language Cues and Relational Safety Risks in Human-{LLM} Dialogue
+dai-etal-2026-psyche,2026,yes,"Psyche-R1: Towards Reliable Psychological {LLM}s through Unified Empathy, Expertise, and Reasoning"
+cui-etal-2026-measuring,2026,yes,Measuring the quality of therapy sessions against assessment scales using augmented semantic-similarity approaches
+chu-etal-2026-beyond,2026,no,Beyond Semantic Similarity: Appraisal-Guided Chain-of-Thought Reasoning and Retrieval for Multimodal Emotional Support Conversations
+chen-etal-2026-psychepass,2026,yes,{P}syche{P}ass: Calibrating {LLM} Therapeutic Competence via Trajectory-Anchored Tournaments
+campione-etal-2026-language,2026,yes,Language-Based Detection of Adherence to Evidence-Based Psychotherapy Scripts
+buyanov-etal-2026-psytechlab,2026,yes,psytechlab at {CLP}sych 2026: Utilising Natural Language Processing methods and Large Language Models for Social Media Text Analysis
+badawi-etal-2026-trust,2026,yes,When Can We Trust {LLM}s in Mental Health? Large-Scale Benchmarks for Reliable {LLM} Evaluation
+arora-etal-2026-value,2026,yes,How Value Induction Reshapes {LLM} Behavior
+arnaout-etal-2026-responsible,2026,no,Responsible Evaluation of {AI} for Mental Health
+anampiu-2026-aaron,2026,yes,Aaron at {S}em{E}val-2026 Task 9: Multilingual Polarization Detection using Transformer-Based Models with Class Weighting and Threshold Tuning
+ajichi-etal-2026-adaptive,2026,yes,Adaptive Multimodal Sentiment Analysis with Stream-Based Active Learning for Spoken Dialogue Systems
+aghakhani-rezapour-2026-like,2026,yes,"Like a Therapist, But Not: {R}eddit Narratives of {AI} in Mental Health Contexts"
+agarwal-etal-2026-kcl,2026,no,{KCL}-Cogstack at {P}sy{D}ef{D}etect: A Hierarchical Approach to Detecting Defense Mechanisms in Supportive Dialogue
+zhu-etal-2025-integrating,2025,yes,Integrating Visual Modalities with Large Language Models for Mental Health Support
+zhu-etal-2025-ask,2025,yes,Ask Patients with Patience: Enabling {LLM}s for Human-Centric Medical Dialogue with Grounded Reasoning
+zhou-etal-2025-crisp,2025,yes,Crisp: Cognitive Restructuring of Negative Thoughts through Multi-turn Supportive Dialogues
+zhao-etal-2025-dream,2025,yes,Dream to Chat: Model-based Reinforcement Learning on Dialogues with User Belief Modeling
+zhao-etal-2025-chain,2025,yes,Chain of Strategy Optimization Makes Large Language Models Better Emotional Supporter
+zhang-etal-2025-intentionesc,2025,yes,{I}ntention{ESC}: An Intention-Centered Framework for Enhancing Emotional Support in Dialogue Systems
+zhang-etal-2025-decoupledesc,2025,yes,{D}ecoupled{ESC}: Enhancing Emotional Support Generation via Strategy-Response Decoupled Preference Optimization
+zhang-etal-2025-cbt,2025,yes,{CBT}-Bench: Evaluating Large Language Models on Assisting Cognitive Behavior Therapy
+zhang-2025-auradial,2025,yes,{A}ura{D}ial: A Large-Scale Human-Centric Dialogue Dataset for {C}hinese {AI} Psychological Counseling
+zechariah-etal-2025-patient,2025,yes,Patient-Centric Question Answering- Overview of the Shared Task at the Second Workshop on {NLP} and {AI} for Multilingual and Healthcare Communication
+yuan-etal-2025-reflectdiffu,2025,yes,{R}eflect{D}iffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a {RL}-Diffusion Framework
+ye-etal-2025-sweetiechat,2025,yes,{S}weetie{C}hat: A Strategy-Enhanced Role-playing Framework for Diverse Scenarios Handling Emotional Support Agent
+ye-etal-2025-generic,2025,yes,From Generic Empathy to Personalized Emotional Support: A Self-Evolution Framework for User Preference Alignment
+yang-etal-2025-consistent,2025,no,Consistent Client Simulation for Motivational Interviewing-based Counseling
+yang-etal-2025-cami,2025,yes,{CAMI}: A Counselor Agent Supporting Motivational Interviewing through State Inference and Topic Exploration
+yan-zhu-2025-creditllm,2025,yes,{C}redit{LLM}: Constructing Financial {AI} Assistant for Credit Products using Financial {LLM} and Few Data
+xu-etal-2025-multiagentesc,2025,yes,{M}ulti{A}gent{ESC}: A {LLM}-based Multi-Agent Collaboration Framework for Emotional Support Conversation
+xie-etal-2025-psydt,2025,yes,{P}sy{DT}: Using {LLM}s to Construct the Digital Twin of Psychological Counselor with Personalized Counseling Style for Psychological Counseling
+xie-etal-2025-ipet,2025,yes,i{PET}: An Interactive Emotional Companion Dialogue System with {LLM}-Powered Virtual Pet World Simulation
+xie-etal-2025-distilling,2025,yes,Distilling Empathy from Large Language Models
+wu-etal-2025-traits,2025,yes,From Traits to Empathy: Personality-Aware Multimodal Empathetic Response Generation
+wu-etal-2025-personas,2025,yes,From Personas to Talks: Revisiting the Impact of Personas on {LLM}-Synthesized Emotional Support Conversations
+wang-etal-2025-sibyl,2025,yes,Sibyl: Empowering Empathetic Dialogue Generation in Large Language Models via Sensible and Visionary Commonsense Inference
+wang-etal-2025-opens2s,2025,yes,{O}pen{S}2{S}: Advancing Fully Open-Source End-to-End Empathetic Large Speech Language Model
+wang-etal-2025-mileage,2025,yes,Your Mileage May Vary: How Empathy and Demographics Shape Human Preferences in {LLM} Responses
+wang-etal-2025-flexible,2025,yes,Flexible Thinking for Multimodal Emotional Support Conversation via Reinforcement Learning
+wang-etal-2025-feel,2025,yes,Feel the Difference? A Comparative Analysis of Emotional Arcs in Real and {LLM}-Generated {CBT} Sessions
+wang-etal-2025-ecc,2025,yes,"{ECC}: Synergizing Emotion, Cause and Commonsense for Empathetic Dialogue Generation"
+wang-etal-2025-convert,2025,yes,Convert Language Model into a Value-based Strategic Planner
+wang-etal-2025-computational,2025,no,Computational Linguistic Approach to Empathy and its Language Communication Pattern
+wang-etal-2025-benchmarking-contextual,2025,yes,Benchmarking Contextual and Paralinguistic Reasoning in Speech-{LLM}s: A Case Study with In-the-Wild Data
+wang-etal-2025-annaagent,2025,yes,{A}nna{A}gent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation
+wan-etal-2025-emodynamix,2025,yes,{E}mo{D}ynami{X}: Emotional Support Dialogue Strategy Prediction by Modelling {M}i{X}ed Emotions and Discourse Dynamics
+tsai-chen-2025-balancing,2025,yes,Balancing Knowledge Delivery and Emotional Comfort in Healthcare Conversational Systems
+tripodi-etal-2025-assessing,2025,yes,Assessing effective de-escalation of crisis conversations using transformer-based models and trend statistics
+tian-etal-2025-multi,2025,no,Multi-Condition Guided Diffusion Network for Multimodal Emotion Recognition in Conversation
+tayal-etal-2025-towards,2025,yes,Towards conversational assistants for health applications: using {C}hat{GPT} to generate conversations about heart failure
+takahashi-etal-2025-analyzing,2025,yes,Analyzing Dialogue System Behavior in a Specific Situation Requiring Interpersonal Consideration
+sun-etal-2025-rethinking,2025,yes,Rethinking the Alignment of Psychotherapy Dialogue Generation with Motivational Interviewing Strategies
+srikanth-etal-2025-mixed,2025,no,Mixed Signals: Understanding Model Disagreement in Multimodal Empathy Detection
+soni-etal-2025-evaluation,2025,yes,Evaluation of {LLM}s-based Hidden States as Author Representations for Psychological Human-Centered {NLP} Tasks
+shi-etal-2025-beyond,2025,no,Beyond Coarse Labels: Fine-Grained Problem Augmentation and Multi-Dimensional Feedback for Emotional Support Conversation
+she-etal-2025-emplifai,2025,yes,{E}mplif{AI}: a Fine-grained Dataset for {J}apanese Empathetic Medical Dialogues in 28 Emotion Labels
+shah-etal-2025-tn,2025,yes,{TN}-Eval: Rubric and Evaluation Protocols for Measuring the Quality of Behavioral Therapy Notes
+schmidt-etal-2025-cfics,2025,yes,{CF}i{CS}: Graph-Based Classification of Common Factors and Microcounseling Skills
+sampath-etal-2025-seer,2025,yes,{SEER}: The Span-based Emotion Evidence Retrieval Benchmark
+sahu-etal-2025-leveraging,2025,yes,Leveraging Language Models for Summarizing Mental State Examinations: A Comprehensive Evaluation and Dataset Release
+rowe-etal-2025-eurogest,2025,yes,{E}uro{GEST}: Investigating gender stereotypes in multilingual language models
+rezayi-etal-2025-automated,2025,no,Automated Scoring of Communication Skills in Physician-Patient Interaction: Balancing Performance and Scalability
+reguera-gomez-etal-2025-empathy,2025,yes,Empathy vs Neutrality: {Designing} and Evaluating a Natural Chatbot for the Healthcare Domain
+qiu-lan-2025-psydial,2025,yes,{P}sy{D}ial: A Large-scale Long-term Conversational Dataset for Mental Health Support
+qiu-etal-2025-deepwell,2025,yes,{D}eep{W}ell-Adol: A Scalable Expert-Based Dialogue Corpus for Adolescent Positive Mental Health and Wellbeing Promotion
+qi-etal-2025-reasoning,2025,yes,"Does ``Reasoning'' with Large Language Models Improve Recognizing, Generating and Reframing Unhelpful Thoughts?"
+qi-etal-2025-kokorochat,2025,yes,{K}okoro{C}hat: A {J}apanese Psychological Counseling Dialogue Dataset Collected via Role-Playing by Trained Counselors
+park-etal-2025-polite,2025,yes,Too Polite to be Human: Evaluating {LLM} Empathy in {K}orean Conversations via a {DCT}-Based Framework
+pal-chowdhury-etal-2025-educators,2025,yes,Educators' Perceptions of Large Language Models as Tutors: Comparing Human and {AI} Tutors in a Blind Text-only Setting
+nguyen-etal-2025-large,2025,yes,Do Large Language Models Align with Core Mental Health Counseling Competencies?
+nguyen-etal-2025-hanging,2025,no,Hanging in the Balance: Pivotal Moments in Crisis Counseling Conversations
+ngueajio-etal-2025-think,2025,yes,Think Like a Person Before Responding: A Multi-Faceted Evaluation of Persona-Guided {LLM}s for Countering Hate Speech.
+na-etal-2025-survey,2025,yes,A Survey of Large Language Models in Psychotherapy: Current Landscape and Future Directions
+mohanty-etal-2025-bridging,2025,yes,Bridging Context Gaps: Enhancing Comprehension in Long-Form Social Conversations Through Contextualized Excerpts
+min-etal-2025-speech,2025,yes,Speech-Integrated Modeling for Behavioral Coding in Counseling
+matsuura-etal-2025-emonews,2025,yes,{E}mo{N}ews: A Spoken Dialogue System for Expressive News Conversations
+malik-etal-2025-llms,2025,yes,Are {LLM}s Empathetic to All? Investigating the Influence of Multi-Demographic Personas on a Model{'}s Empathy
+mahmood-etal-2025-fully,2025,yes,A Fully Generative Motivational Interviewing Counsellor Chatbot for Moving Smokers Towards the Decision to Quit
+madani-srihari-2025-steering,2025,yes,Steering Conversational Large Language Models for Long Emotional Support Conversations
+madani-srihari-2025-esc,2025,yes,{ESC}-Judge: A Framework for Comparing Emotional Support Conversational Agents
+li-etal-2025-llms-cant,2025,yes,When {LLM}s Can{'}t Help: Real-World Evaluation of {LLM}s in Nutrition
+li-etal-2025-facilitating,2025,no,Facilitating Cross-lingual Transfer of Empathy through Language-independent Latent Diffusion: A Case Study in {C}hinese
+li-etal-2025-ai,2025,yes,{AI} Chatbots as Professional Service Agents: Developing a Professional Identity
+li-etal-2025-aesbiasbench,2025,yes,{A}es{B}ias{B}ench: Evaluating Bias and Alignment in Multimodal Language Models for Personalized Image Aesthetic Assessment
+lee-etal-2025-star-strategy,2025,no,{STAR}: Strategy-Aware Refinement Module in Multitask Learning for Emotional Support Conversations
+lee-etal-2025-panictocalm,2025,yes,{P}anic{T}o{C}alm: A Proactive Counseling Agent for Panic Attacks
+lee-etal-2025-multilingual,2025,yes,"Multilingual, Not Multicultural: Uncovering the Cultural Empathy Gap in {LLM}s through a Comparative Empathetic Dialogue Benchmark"
+lee-etal-2025-heart,2025,no,From Heart to Words: Generating Empathetic Responses via Integrated Figurative Language and Semantic Context Signals
+lahnala-etal-2025-practical,2025,yes,The Practical Impacts of Theoretical Constructs on Empathy Modeling
+kong-etal-2025-emorl,2025,yes,{EMORL}: Ensemble Multi-Objective Reinforcement Learning for Efficient and Flexible {LLM} Fine-Tuning
+kockritz-etal-2025-reasoning,2025,yes,Reasoning Under Distress: Mining Claims and Evidence in Mental Health Narratives
+kim-etal-2025-share-story,2025,yes,Can You Share Your Story? Modeling Clients' Metacognition and Openness for {LLM} Therapist Evaluation
+kim-etal-2025-principles,2025,yes,{PRINCIPLES}: Synthetic Strategy Memory for Proactive Dialogue Agents
+kim-etal-2025-multimodal,2025,yes,Multimodal Cognitive Reframing Therapy via Multi-hop Psychotherapeutic Reasoning
+kim-etal-2025-mirror,2025,yes,{MIRROR}: Multimodal Cognitive Reframing Therapy for Rolling with Resistance
+kim-etal-2025-kmi,2025,yes,{KMI}: A Dataset of {K}orean Motivational Interviewing Dialogues for Psychotherapy
+kim-etal-2025-dialogue,2025,yes,Dialogue Systems for Emotional Support via Value Reinforcement
+kian-etal-2025-using,2025,yes,Using Linguistic Entrainment to Evaluate Large Language Models for Use in Cognitive Behavioral Therapy
+kazemi-vanhari-etal-2025-analyzing,2025,yes,Analyzing Interview Questions via Bloom{'}s Taxonomy to Enhance the Design Thinking Process
+katki-etal-2025-automated,2025,yes,Automated Coding of Counsellor and Client Behaviours in Motivational Interviewing Transcripts: Validation and Application
+kar-etal-2025-mathbuddy,2025,yes,{M}ath{B}uddy: A Multimodal System for Affective Math Tutoring
+kang-etal-2025-generation,2025,no,Generation-Based and Emotion-Reflected Memory Update: Creating the {KEEM} Dataset for Better Long-Term Conversation
+jafari-etal-2025-psychological,2025,yes,"Psychological Health Chatbot, Detecting and Assisting Patients in their Path to Recovery"
+inoue-etal-2025-laugh,2025,yes,Why Do We Laugh? Annotation and Taxonomy Generation for Laughable Contexts in Spontaneous Text Conversation
+huangfu-etal-2025-non,2025,no,Non-Emotion-Centric Empathetic Dialogue Generation
+hu-etal-2025-psyadvisor,2025,yes,{P}sy{A}dvisor: A Plug-and-Play Strategy Advice Planner with Proactive Questioning in Psychological Conversations
+hu-etal-2025-chain,2025,yes,Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis
+hou-etal-2025-language,2025,yes,Language Models Predict Empathy Gaps Between Social In-groups and Out-groups
+hotta-etal-2025-metamo,2025,yes,Metamo: Empowering Large Language Models with Psychological Distortion Detection for Cognition-aware Coaching
+hossain-etal-2025-mender,2025,yes,{MENDER}: Multi-hop Commonsense and Domain-specific {C}o{T} Reasoning for Knowledge-grounded Empathetic Counseling of Crime Victims
+hossain-etal-2025-autopsyc,2025,yes,{A}uto{P}sy{C}: Automatic Recognition of Psychodynamic Conflicts from Semi-structured Interviews with Large Language Models
+hoque-etal-2025-ciol,2025,no,{CIOL} at {CLP}sych 2025: Using Large Lanuage Models for Understanding and Summarizing Clinical Texts
+hong-etal-2025-third,2025,yes,Third-Person Appraisal Agent: Simulating Human Emotional Reasoning in Text with Large Language Models
+he-etal-2025-madial,2025,yes,{MAD}ial-Bench: Towards Real-world Evaluation of Memory-Augmented Dialogue Generation
+he-etal-2025-ecc,2025,yes,{ECC}: An Emotion-Cause Conversation Dataset for Empathy Response
+haydarov-etal-2025-towards,2025,yes,Towards {AI}-Assisted Psychotherapy: Emotion-Guided Generative Interventions
+hao-kong-2025-enhancing,2025,yes,Enhancing Emotional Support Conversations: A Framework for Dynamic Knowledge Filtering and Persona Extraction
+hama-etal-2025-rapsil,2025,yes,{R}a{PSIL}: A {P}reference{-}{G}uided Interview Agent for {R}apport{-}{A}ware {S}elf{-}{D}isclosure
+gupta-etal-2025-found,2025,yes,Found in Translation: Measuring Multilingual {LLM} Consistency as Simple as Translate then Evaluate
+guo-etal-2025-comparative,2025,yes,A Comparative Study of Human-operated and {AI}-driven Guidance with a Teleoperated Mobile Robot
+gunal-etal-2025-examining,2025,yes,Examining {S}panish Counseling with {MIDAS}: a Motivational Interviewing Dataset in {S}panish
+gollapalli-ng-2025-pirsuader,2025,yes,{PIR}suader: A Persuasive Chatbot for Mitigating Psychological Insulin Resistance in Type-2 Diabetic Patients
+goel-etal-2025-socratic,2025,yes,Socratic Reasoning Improves Positive Text Rewriting
+ghosh-etal-2025-just,2025,yes,Just a Scratch: Enhancing {LLM} Capabilities for Self-harm Detection through Intent Differentiation and Emoji Interpretation
+gao-etal-2025-graph,2025,yes,Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance {LLM} Reasoning
+fu-etal-2025-minority,2025,yes,Minority-Aware Satisfaction Estimation in Dialogue Systems via Preference-Adaptive Reinforcement Learning
+fu-etal-2025-look,2025,yes,Look Beyond Feeling: Unveiling Latent Needs from Implicit Expressions for Proactive Emotional Support
+feng-etal-2025-reframe,2025,yes,Reframe Your Life Story: Interactive Narrative Therapist and Innovative Moment Assessment with Large Language Models
+elyazori-etal-2025-capturing,2025,yes,Capturing Patients' Lived Experiences with Chronic Pain through Motivational Interviewing and Information Extraction
+duan-etal-2025-guidellm,2025,yes,{G}uide{LLM}: Exploring {LLM}-Guided Conversation with Applications in Autobiography Interviewing
+diekmann-etal-2025-llms,2025,yes,{LLM}s as Medical Safety Judges: Evaluating Alignment with Human Annotation in Patient-Facing {QA}
+deshpande-etal-2025-evaluating,2025,yes,Evaluating Large Language Models for Enhancing Live Chat Therapy: A Comparative Study with Psychotherapists
+de-grandi-etal-2025-emotional,2025,yes,The Emotional Spectrum of {LLM}s: Leveraging Empathy and Emotion-Based Markers for Mental Health Support
+dan-etal-2025-p,2025,yes,{P}-React: Synthesizing Topic-Adaptive Reactions of Personality Traits via Mixture of Specialized {L}o{RA} Experts
+chockkalingam-etal-2025-go,2025,yes,Should {I} go vegan: Evaluating the Persuasiveness of {LLM}s in Persona-Grounded Dialogues
+chen-etal-2025-mind,2025,yes,{MIND}: Towards Immersive Psychological Healing with Multi-Agent Inner Dialogue
+chen-etal-2025-empathy,2025,no,Empathy Prediction from Diverse Perspectives
+chen-etal-2025-comif,2025,yes,{C}o{MIF}: Modeling of Complex Multiple Interaction Factors for Conversation Generation
+chen-etal-2025-catch,2025,yes,{CATCH}: A Novel Data Synthesis Framework for High Therapy Fidelity and Memory-Driven Planning Chain of Thought in {AI} Counseling
+chedalla-etal-2025-turn,2025,yes,Turn-by-Turn Behavior Monitoring in {LM}-Guided Psychotherapy
+cao-etal-2025-tool,2025,yes,{TOOL}-{ED}: Enhancing Empathetic Response Generation with the Tool Calling Capability of {LLM}
+cabrera-lozoya-etal-2025-synthetic,2025,yes,Synthetic Empathy: Generating and Evaluating Artificial Psychotherapy Dialogues to Detect Empathy in Counseling Sessions
+bn-etal-2025-pursuit,2025,yes,The Pursuit of Empathy: Evaluating Small Language Models for {PTSD} Dialogue Support
+bi-etal-2025-magi,2025,yes,{MAGI}: Multi-Agent Guided Interview for Psychiatric Assessment
+bhattacharyya-wang-2025-evaluating,2025,yes,Evaluating Vision-Language Models for Emotion Recognition
+baskar-etal-2025-cper,2025,yes,({CPER}) From Guessing to Asking: An Approach to Resolving Persona Knowledge Gap in {LLM}s during Multi-Turn Conversations
+basar-etal-2025-well,2025,yes,How Well Can Large Language Models Reflect? A Human Evaluation of {LLM}-generated Reflections for Motivational Interviewing Dialogues
+bandera-etal-2025-unveiling,2025,no,Unveiling Empathic Triggers in Online Interactions via Empathy Cause Identification
+amini-kosseim-2025-posts,2025,yes,From Posts to Predictions: A User-Aware Framework for Faithful and Transparent Detection of Mental Health Risks on Social Media
+aghakhani-etal-2025-conversation,2025,yes,From Conversation to Automation: Leveraging {LLM}s for Problem-Solving Therapy Analysis
+abbasi-etal-2025-hamraz,2025,yes,{H}am{R}az: A Culture-Based {P}ersian Conversation Dataset for Person-Centered Therapy Using {LLM} Agents
+a-etal-2025-offline,2025,yes,An Offline Mobile Conversational Agent for Mental Health Support: Learning from Emotional Dialogues and Psychological Texts with Student-Centered Evaluation
+zhou-etal-2024-think,2024,yes,Think Before You Speak: Cultivating Communication Skills of Large Language Models via Inner Monologue
+zheng-etal-2024-self,2024,yes,Self-chats from Large Language Models Make Small Emotional Support Chatbot Better
+zhang-etal-2024-stickerconv,2024,yes,{STICKERCONV}: Generating Multimodal Empathetic Responses from Scratch
+zhang-etal-2024-escot,2024,yes,{ESC}o{T}: Towards Interpretable Emotional Support Dialogue Systems
+zhang-etal-2024-cpsycoun,2024,yes,{CP}sy{C}oun: A Report-based Multi-turn Dialogue Reconstruction and Evaluation Framework for {C}hinese Psychological Counseling
+younsi-etal-2024-beyond,2024,no,Beyond Words: Decoding Facial Expression Dynamics in Motivational Interviewing
+yosef-etal-2024-assessing,2024,yes,Assessing Motivational Interviewing Sessions with {AI}-Generated Patient Simulations
+yang-jurgens-2024-modeling,2024,yes,Modeling Empathetic Alignment in Conversation
+yang-etal-2024-iterative,2024,yes,An Iterative Associative Memory Model for Empathetic Response Generation
+yang-etal-2024-hyy33,2024,yes,hyy33 at {WASSA} 2024 Empathy and Personality Shared Task: Using the {C}ombined{L}oss and {FGM} for Enhancing {BERT}-based Models in Emotion and Empathy Prediction from Conversation Turns
+yan-etal-2024-talk,2024,yes,Talk With Human-like Agents: Empathetic Dialogue Through Perceptible Acoustic Reception and Reaction
+xu-jiang-2024-multi,2024,yes,Multi-dimensional Evaluation of Empathetic Dialogue Responses
+xie-etal-2024-shot-dialogue,2024,yes,Few-shot Dialogue Strategy Learning for Motivational Interviewing via Inductive Reasoning
+xiao-etal-2024-healme,2024,yes,{H}eal{M}e: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy
+wu-etal-2024-evaluating,2024,yes,Evaluating Large Language Models on Social Signal Sensitivity: An Appraisal Theory Approach
+wu-etal-2024-ehdchat,2024,yes,"{EHDC}hat: A Knowledge-Grounded, Empathy-Enhanced Language Model for Healthcare Interactions"
+wegmann-etal-2024-whats,2024,yes,"What{'}s Mine becomes Yours: Defining, Annotating and Detecting Context-Dependent Paraphrases in News Interview Dialogs"
+wang-etal-2024-patient,2024,yes,{PATIENT}-$\psi$: Using Large Language Models to Simulate Patients for Training Mental Health Professionals
+wang-etal-2024-muffin,2024,no,Muffin: Mitigating Unhelpfulness in Emotional Support Conversations with Multifaceted {AI} Feedback
+wang-etal-2024-intent,2024,yes,Intent-Aware and Hate-Mitigating Counterspeech Generation via Dual-Discriminator Guided {LLM}s
+wang-etal-2024-ctsm,2024,yes,{CTSM}: Combining Trait and State Emotions for Empathetic Response Model
+wang-etal-2024-blsp,2024,yes,{BLSP}-Emo: Towards Empathetic Large Speech-Language Models
+tseriotou-etal-2024-sig,2024,yes,Sig-Networks Toolkit: Signature Networks for Longitudinal Language Modelling
+tiwari-etal-2024-seeing,2024,yes,Seeing Is Believing! towards Knowledge-Infused Multi-modal Medical Dialogue Generation
+takanabe-etal-2024-multimodal,2024,no,Multimodal Emotion Recognition and Dataset Construction in Online Counseling
+sun-etal-2024-eliciting,2024,yes,Eliciting Motivational Interviewing Skill Codes in Psychotherapy with {LLM}s: A Bilingual Dataset and Analytical Study
+srivastava-etal-2024-knowledge,2024,yes,Knowledge Planning in Large Language Models for Domain-Aligned Counseling Summarization
+skianis-etal-2024-leveraging,2024,yes,Leveraging {LLM}s for Translating and Classifying Mental Health Data
+siyan-etal-2024-using,2024,yes,Using Adaptive Empathetic Responses for Teaching {E}nglish
+shen-etal-2024-heart,2024,yes,{HEART}-felt Narratives: Tracing Empathy and Narrative Style in Personal Stories with {LLM}s
+shen-etal-2024-empathicstories,2024,no,{E}mpathic{S}tories++: A Multimodal Dataset for Empathy Towards Personal Experiences
+shapira-alfi-yogev-2024-therapist,2024,yes,Therapist Self-Disclosure as a Natural Language Processing Task
+seo-lee-2024-diagesc,2024,yes,{D}iag{ESC}: Dialogue Synthesis for Integrating Depression Diagnosis into Emotional Support Conversation
+sel-etal-2024-skin,2024,yes,Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in {LLM}s
+sedefoglu-etal-2024-leadempathy,2024,no,{L}ead{E}mpathy: An Expert Annotated {G}erman Dataset of Empathy in Written Leadership Communication
+schirmer-etal-2024-language,2024,yes,The Language of Trauma: Modeling Traumatic Event Descriptions Across Domains with Explainable {AI}
+saha-etal-2024-crowdcounter,2024,yes,{C}rowd{C}ounter: A benchmark type-specific multi-target counterspeech dataset
+sadhu-etal-2024-empirical,2024,yes,An Empirical Study of Gendered Stereotypes in Emotional Attributes for {B}angla in Multilingual Large Language Models
+rizwan-2024-sarcemp,2024,yes,{S}arc{E}mp - Fine-tuning {D}ialo{GPT} for Sarcasm and Empathy
+qiu-etal-2024-smile,2024,yes,{SMILE}: Single-turn to Multi-turn Inclusive Language Expansion via {C}hat{GPT} for Mental Health Support
+qiu-etal-2024-psyguard,2024,no,{P}sy{GUARD}: An Automated System for Suicide Detection and Risk Assessment in Psychological Counseling
+qi-2024-utilizing,2024,yes,Utilizing Large Language Models for Customized Dialogue Data Augmentation and Psychological Counseling
+priya-etal-2024-way,2024,yes,On the Way to Gentle {AI} Counselor: Politeness Cause Elicitation and Intensity Tagging in Code-mixed {H}inglish Conversations for Social Good
+polignano-etal-2024-unraveling,2024,yes,Unraveling the Enigma of {SPLIT} in Large-Language Models: The Unforeseen Impact of System Prompts on {LLM}s with Dissociative Identity Disorder
+plaza-del-arco-etal-2024-angry,2024,yes,"Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution"
+pereira-etal-2024-context,2024,yes,{C}on{T}ext at {WASSA} 2024 Empathy and Personality Shared Task: History-Dependent Embedding Utterance Representations for Empathy and Emotion Prediction in Conversations
+park-etal-2024-improving,2024,no,Improving Backchannel Prediction Leveraging Sequential and Attentive Context Awareness
+pang-2024-toward,2024,yes,Toward More Human-like {SDS}s: Advancing Emotional and Social Engagement in Embodied Conversational Agents
+osei-brefo-liang-2024-nu,2024,yes,{NU} at {WASSA} 2024 Empathy and Personality Shared Task: Enhancing Personality Predictions with Knowledge Graphs; A Graphical Neural Network and {L}ight{GBM} Ensemble Approach
+onozeki-2024-knowledge,2024,yes,Knowledge-Grounded Dialogue Systems for Generating Interesting and Engaging Responses
+numanoglu-etal-2024-empathify,2024,yes,Empathify at {WASSA} 2024 Empathy and Personality Shared Task: Contextualizing Empathy with a {BERT}-Based Context-Aware Approach for Empathy Detection
+nguyen-etal-2024-taking,2024,no,Taking a turn for the better: Conversation redirection throughout the course of mental-health therapy
+nejadgholi-etal-2024-challenging,2024,no,Challenging Negative Gender Stereotypes: A Study on the Effectiveness of Automated Counter-Stereotypes
+na-2024-cbt,2024,yes,{CBT}-{LLM}: A {C}hinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering
+mori-2024-cognitive,2024,yes,Cognitive Model of Listener Response Generation and Its Application to Dialogue Systems
+moon-bhattacharyya-2024-care,2024,yes,We Care: Multimodal Depression Detection and Knowledge Infused Mental Health Therapeutic Response Generation
+mitsios-etal-2024-improved,2024,yes,Improved Text Emotion Prediction Using Combined Valence and Arousal Ordinal Classification
+mishra-etal-2024-able,2024,no,{ABLE}: Personalized Disability Support with Politeness and Empathy Integration
+min-etal-2024-dynamic,2024,yes,Dynamic Reward Adjustment in Multi-Reward Reinforcement Learning for Counselor Reflection Generation
+milintsevich-etal-2024-evaluating,2024,yes,Evaluating Lexicon Incorporation for Depression Symptom Estimation
+mengxiao-etal-2024-mian,2024,yes,面向心理健康咨询的藏语数据集及大语言模型构建(Construction of {T}ibetan Datasets and Large Language Models for Psychological Health Counseling)
+mayer-etal-2024-predicting,2024,yes,Predicting Client Emotions and Therapist Interventions in Psychotherapy Dialogues
+manzoor-etal-2024-machines,2024,yes,Can Machines Resonate with Humans? Evaluating the Emotional and Empathic Comprehension of {LM}s
+manai-etal-2024-idre,2024,yes,{IDRE}: {AI} Generated Dataset for Enhancing Empathetic Chatbot Interactions in {I}talian Language.
+maeda-2024-elucidation,2024,yes,Elucidation of Psychotherapy and Development of New Treatment Methods Using {AI}
+lozoya-etal-2024-generating,2024,yes,Generating Mental Health Transcripts with {SAPE} ({S}panish Adaptive Prompt Engineering)
+louie-etal-2024-roleplay,2024,yes,Roleplay-doh: Enabling Domain-Experts to Create {LLM}-simulated Patients via Eliciting and Adhering to Principles
+lissak-etal-2024-colorful,2024,yes,The Colorful Future of {LLM}s: Evaluating and Improving {LLM}s as Emotional Supporters for Queer Youth
+lin-etal-2024-working,2024,yes,Working Alliance Transformer for Psychotherapy Dialogue Classification
+lin-etal-2024-towards,2024,yes,Towards Healthy {AI}: Large Language Models Need Therapists Too
+lim-etal-2024-erd,2024,yes,{ERD}: A Framework for Improving {LLM} Reasoning for Cognitive Distortion Classification
+li-etal-2024-understanding-therapeutic,2024,yes,Understanding the Therapeutic Relationship between Counselors and Clients in Online Text-based Counseling using {LLM}s
+li-etal-2024-helpful,2024,no,Be Helpful but Don{'}t Talk too Much - Enhancing Helpfulness in Conversations through Relevance in Multi-Turn Emotional Support
+li-etal-2024-emstremo,2024,no,Emstremo: Adapting Emotional Support Response with Enhanced Emotion-Strategy Integrated Selection
+li-etal-2024-eden,2024,yes,{EDEN}: Empathetic Dialogues for {E}nglish Learning
+li-etal-2024-chinchunmei,2024,yes,Chinchunmei at {WASSA} 2024 Empathy and Personality Shared Task: Boosting {LLM}{'}s Prediction with Role-play Augmentation and Contrastive Reasoning Calibration
+lee-parde-2024-acnempathize,2024,yes,{A}cn{E}mpathize: A Dataset for Understanding Empathy in Dermatology Conversations
+lee-etal-2024-towards,2024,yes,Towards Understanding Counseling Conversations: Domain Knowledge and Large Language Models
+lee-etal-2024-pouring,2024,no,Pouring Your Heart Out: Investigating the Role of Figurative Language in Online Expressions of Empathy
+lee-etal-2024-empatheticfig,2024,yes,{E}mpathetic{FIG} at {WASSA} 2024 Empathy and Personality Shared Task: Predicting Empathy and Emotion in Conversations with Figurative Language
+lee-etal-2024-comparative,2024,yes,A Comparative Multidimensional Analysis of Empathetic Systems
+lee-etal-2024-cactus,2024,yes,Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory
+lahnala-etal-2024-appraisal,2024,no,Appraisal Framework for Clinical Empathy: A Novel Application to Breaking Bad News Conversations
+kumar-etal-2024-unlocking,2024,yes,Unlocking {LLM}s: Addressing Scarce Data and Bias Challenges in Mental Health and Therapeutic Counselling
+kong-moon-2024-ru,2024,yes,{RU} at {WASSA} 2024 Shared Task: Task-Aligned Prompt for Predicting Empathy and Distress
+kenigsbuch-shapira-2024-serious,2024,no,Why So Serious: Humor and its Association with Treatment Measurements Process and Outcome
+kang-etal-2024-large,2024,yes,Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation
+jeyaraman-etal-2024-pronunciation,2024,no,Pronunciation scoring for dysarthric speakers with {DNN}-{HMM} based goodness of pronunciation ({G}o{P}) measure
+jang-etal-2024-minimal,2024,yes,Minimal Yet Big Impact: How {AI} Agent Back-channeling Enhances Conversational Engagement through Conversation Persistence and Context Richness
+huang-liang-2024-zhenmei,2024,no,Zhenmei at {WASSA}-2024 Empathy and Personality Shared Track 2 Incorporating {P}earson Correlation Coefficient as a Regularization Term for Enhanced Empathy and Emotion Prediction in Conversational Turns
+hossain-etal-2024-m3tcm,2024,no,{M}3{TCM}: Multi-modal Multi-task Context Model for Utterance Classification in Motivational Interviews
+homan-etal-2024-intersectionality,2024,yes,Intersectionality in {AI} Safety: Using Multilevel Models to Understand Diverse Perceptions of Safety in Conversational {AI}
+hoang-etal-2024-client,2024,yes,How Can Client Motivational Language Inform Psychotherapy Agents?
+hasan-etal-2024-thesis,2024,yes,Thesis Proposal: Detecting Empathy Using Multimodal Language Model
+hasan-etal-2024-llm,2024,yes,{LLM}-{GE}m: Large Language Model-Guided Prediction of People{'}s Empathy Levels towards Newspaper Article
+harel-canada-etal-2024-measuring,2024,yes,Measuring Psychological Depth in Language Models
+hamotskyi-etal-2024-eval,2024,yes,Eval-{UA}-tion 1.0: Benchmark for Evaluating {U}krainian (Large) Language Models
+hamad-etal-2024-asem,2024,yes,{ASEM}: Enhancing Empathy in Chatbot through Attention-based Sentiment and Emotion Modeling
+gunal-etal-2024-conversational,2024,yes,Conversational Topic Recommendation in Counseling and Psychotherapy with Decision Transformer and Large Language Models
+giorgi-etal-2024-findings,2024,yes,Findings of {WASSA} 2024 Shared Task on Empathy and Personality Detection in Interactions
+gao-etal-2024-cept,2024,yes,{CEPT}: A Contrast-Enhanced Prompt-Tuning Framework for Emotion Recognition in Conversation
+gabriel-etal-2024-ai,2024,yes,Can {AI} Relate: Testing Large Language Model Response for Mental Health Support
+furniturewala-jaidka-2024-empaths,2024,yes,Empaths at {WASSA} 2024 Empathy and Personality Shared Task: Turn-Level Empathy Prediction Using Psychological Indicators
+fu-etal-2024-styemp,2024,no,{S}ty{E}mp: Stylizing Empathetic Response Generation via Multi-Grained Prefix Encoder and Personality Reinforcement
+frick-steinebach-2024-fraunhofer,2024,yes,Fraunhofer {SIT} at {WASSA} 2024 Empathy and Personality Shared Task: Use of Sentiment Transformers and Data Augmentation With Fuzzy Labels to Predict Emotional Reactions in Conversations and Essays
+feng-etal-2024-affect,2024,yes,Affect Recognition in Conversations Using Large Language Models
+fei-etal-2024-empathyear,2024,yes,{E}mpathy{E}ar: An Open-source Avatar Multimodal Empathetic Chatbot
+denecke-2024-conversational,2024,yes,How Do Conversational Agents in Healthcare Impact on Patient Agency?
+coole-etal-2024-exploring,2024,yes,Exploring the Suitability of Transformer Models to Analyse Mental Health Peer Support Forum Data for a Realist Evaluation
+cohen-etal-2024-motivational,2024,yes,Motivational Interviewing Transcripts Annotated with Global Scores
+churina-etal-2024-wassa,2024,no,{WASSA} 2024 Shared Task: Enhancing Emotional Intelligence with Prompts
+chevi-aji-2024-daisy,2024,no,Daisy at {WASSA} 2024 Empathy and Personality Shared Task: A Quick Exploration on Emotional Pattern of Empathy and Distress
+chen-etal-2024-emotionqueen,2024,yes,{E}motion{Q}ueen: A Benchmark for Evaluating Empathy of Large Language Models
+chaszczewicz-etal-2024-multi,2024,yes,Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors
+campos-etal-2024-psychoanalytic,2024,yes,Psychoanalytic Studies in the Digital Humanities: Employing Topic Modeling with an {LLM} to Decode Dreams During the {B}razilian Pandemic
+cai-etal-2024-empcrl,2024,yes,{E}mp{CRL}: Controllable Empathetic Response Generation via In-Context Commonsense Reasoning and Reinforcement Learning
+burdisso-etal-2024-daic,2024,no,{DAIC}-{WOZ}: On the Validity of Using the Therapist{'}s prompts in Automatic Depression Detection from Clinical Interviews
+buda-etal-2024-crisis,2024,yes,Crisis counselor language and perceived genuine concern in crisis conversations
+brown-etal-2024-generation,2024,yes,"Generation, Distillation and Evaluation of Motivational Interviewing-Style Reflections with a Foundational Language Model"
+bouzoubaa-etal-2024-words,2024,yes,Words Matter: Reducing Stigma in Online Conversations about Substance Use with Large Language Models
+basar-etal-2024-extent,2024,yes,To What Extent Are Large Language Models Capable of Generating Substantial Reflections for Motivational Interviewing Counseling Chatbots? A Human Evaluation
+bao-etal-2024-multi,2024,no,Multi-stream Information Fusion Framework for Emotional Support Conversation
+balloccu-etal-2024-ask,2024,yes,Ask the experts: sourcing a high-quality nutrition counseling dataset through Human-{AI} collaboration
+agarwal-etal-2024-analysing,2024,no,Analysing relevance of Discourse Structure for Improved Mental Health Estimation
+zhou-etal-2023-facilitating,2023,no,Facilitating Multi-turn Emotional Support Conversation with Positive Emotion Elicitation: A Reinforcement Learning Approach
+zhou-etal-2023-case,2023,no,{CASE}: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation
+zheng-etal-2023-augesc,2023,yes,{A}ug{ESC}: Dialogue Augmentation with Large Language Models for Emotional Support Conversation
+zhao-etal-2023-transesc,2023,no,{T}rans{ESC}: Smoothing Emotional Support Conversation via Turn-Level State Transition
+zhao-etal-2023-dont,2023,yes,Don{'}t Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness
+zhang-li-2023-cross,2023,yes,A Cross-Modality Context Fusion and Semantic Refinement Network for Emotion Recognition in Conversation
+zhang-etal-2023-ask,2023,yes,Ask an Expert: Leveraging Language Models to Improve Strategic Reasoning in Goal-Oriented Dialogue Models
+yang-etal-2023-exploiting-emotion,2023,no,Exploiting Emotion-Semantic Correlations for Empathetic Response Generation
+xu-etal-2023-efficient,2023,yes,Efficient Cross-Task Prompt Tuning for Few-Shot Conversational Emotion Recognition
+wu-etal-2023-experts,2023,yes,Are Experts Needed? On Human Evaluation of Counselling Reflection Generation
+welivita-pu-2023-boosting,2023,yes,Boosting Distress Support Dialogue Responses with Motivational Interviewing Strategy
+welivita-etal-2023-empathetic,2023,yes,Empathetic Response Generation for Distress Support
+wang-feng-2023-global,2023,yes,Global-Local Modeling with Prompt-Based Knowledge Enhancement for Emotion Inference in Conversation
+wang-etal-2023-ynu,2023,yes,{YNU}-{HPCC} at {WASSA}-2023 Shared Task 1: Large-scale Language Model with {L}o{RA} Fine-Tuning for Empathy Detection and Emotion Classification
+wang-etal-2023-self,2023,yes,Self-Adapted Utterance Selection for Suicidal Ideation Detection in Lifeline Conversations
+wang-etal-2023-humanoid,2023,no,Humanoid Agents: Platform for Simulating Human-like Generative Agents
+troiano-etal-2023-dimensional,2023,yes,"Dimensional Modeling of Emotions in Text with Appraisal Theories: Corpus Creation, Annotation Reliability, and Prediction"
+toleubay-etal-2023-utterance,2023,no,Utterance Classification with Logical Neural Network: Explainable {AI} for Mental Disorder Diagnosis
+srinivas-etal-2023-team,2023,yes,"{T}eam{\_}{H}awk at {WASSA} 2023 Empathy, Emotion, and Personality Shared Task: Multi-tasking Multi-encoder based transformers for Empathy and Emotion Prediction in Conversations"
+soumitra-etal-2023-leveraging,2023,no,"Leveraging Empathy, Distress, and Emotion for Accurate Personality Subtyping from Complex Human Textual Responses"
+shen-etal-2023-modeling,2023,yes,Modeling Empathic Similarity in Personal Narratives
+sharma-etal-2023-cognitive,2023,yes,Cognitive Reframing of Negative Thoughts through Human-Language Model Interaction
+saha-srihari-2023-argu,2023,no,{A}rg{U}: A Controllable Factual Argument Generator
+qu-etal-2023-conditioning,2023,no,Conditioning on Dialog Acts improves Empathy Style Transfer
+qian-etal-2023-harnessing,2023,yes,Harnessing the Power of Large Language Models for Empathetic Response Generation: Empirical Investigations and Improvements
+pu-etal-2023-just,2023,yes,Just Adjust One Prompt: Enhancing In-Context Dialogue Scoring via Constructing the Optimal Subgraph of Demonstrations and Prompts
+pereira-etal-2023-context,2023,yes,Context-Dependent Embedding Utterance Representations for Emotion Recognition in Conversations
+patkar-etal-2023-adityapatkar,2023,yes,"{A}ditya{P}atkar at {WASSA} 2023 Empathy, Emotion, and Personality Shared Task: {R}o{BERT}a-Based Emotion Classification of Essays, Improving Performance on Imbalanced Data"
+paranjape-etal-2023-converge,2023,yes,"Converge at {WASSA} 2023 Empathy, Emotion and Personality Shared Task: A Transformer-based Approach for Multi-Label Emotion Classification"
+oneil-etal-2023-automatic,2023,yes,Automatic Reflection Generation for Peer-to-Peer Counseling
+nedilko-chu-2023-team,2023,yes,"Team Bias Busters at {WASSA} 2023 Empathy, Emotion and Personality Shared Task: Emotion Detection with Generative Pretrained Transformers"
+mishra-etal-2023-pal,2023,yes,{PAL} to Lend a Helping Hand: Towards Building an Emotion Adaptive Polite and Empathetic Counseling Conversational Agent
+mishra-etal-2023-e,2023,yes,e-{THERAPIST}: {I} suggest you to cultivate a mindset of positivity and nurture uplifting thoughts
+min-etal-2023-verve,2023,no,{VERVE}: Template-based {R}eflecti{VE} Rewriting for {M}oti{V}ational {I}nt{E}rviewing
+min-etal-2023-navigating,2023,yes,Navigating Data Scarcity: Pretraining for Medical Utterance Classification
+medina-grespan-etal-2023-logic,2023,no,Logic-driven Indirect Supervision: An Application to Crisis Counseling
+madasu-etal-2023-unified,2023,yes,A Unified Framework for Emotion Identification and Generation in Dialogues
+lu-etal-2023-hit,2023,no,{HIT}-{SCIR} at {WASSA} 2023: Empathy and Emotion Analysis at the Utterance-Level and the Essay-Level
+lin-etal-2023-ncuee,2023,yes,{NCUEE}-{NLP} at {WASSA} 2023 Shared Task 1: Empathy and Emotion Prediction Using Sentiment-Enhanced {R}o{BERT}a Transformers
+li-etal-2023-understanding,2023,yes,Understanding Client Reactions in Online Mental Health Counseling
+lee-etal-2023-empathy,2023,no,Empathy Identification Systems are not Accurately Accounting for Context
+jiang-etal-2023-empathy,2023,yes,Empathy Intent Drives Empathy Detection
+jiang-etal-2023-cognitive,2023,yes,A Cognitive Stimulation Dialogue System with Multi-source Knowledge Fusion for Elders with Cognitive Impairment
+hasan-etal-2023-curtin,2023,yes,"Curtin {OCAI} at {WASSA} 2023 Empathy, Emotion and Personality Shared Task: Demographic-Aware Prediction Using Multiple Transformers"
+gruschka-etal-2023-domain,2023,yes,"Domain Transfer for Empathy, Distress, and Personality Prediction"
+gollapalli-etal-2023-identifying,2023,yes,Identifying {Early Maladaptive Schemas} from Mental Health Question Texts
+fu-etal-2023-reasoning,2023,yes,Reasoning before Responding: Integrating Commonsense-based Causality Explanation for Empathetic Response Generation
+fu-etal-2023-e,2023,yes,{E}-{CORE}: Emotion Correlation Enhanced Empathetic Dialogue Generation
+fu-2023-causality,2023,yes,Causality Reasoning for Empathy-Enriched and Personality-Conditioned Spoken Dialogue System
+fraser-etal-2023-makes,2023,yes,What Makes a Good Counter-Stereotype? Evaluating Strategies for Automated Responses to Stereotypical Text
+firdaus-etal-2023-mixing,2023,no,Mixing It Up: Inducing Empathy and Politeness using Multiple Behaviour-aware Generators for Conversational Systems
+fataliyev-etal-2023-predicting,2023,yes,Predicting Empathic Accuracy from User-Designer Interviews
+dey-girju-2023-investigating,2023,yes,Investigating Stylistic Profiles for the Task of Empathy Classification in Medical Narrative Essays
+deng-etal-2023-knowledge,2023,yes,Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations
+dang-etal-2023-embedding,2023,no,Embedding Mental Health Discourse for Community Recommendation
+cheng-etal-2023-pal,2023,yes,{PAL}: Persona-Augmented Emotional Support Conversation Generation
+chen-etal-2023-uncivil,2023,yes,The uncivil empathy: Investigating the relation between empathy and toxicity in online mental health support forums
+chen-etal-2023-soulchat,2023,yes,"{S}oul{C}hat: Improving {LLM}s' Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations"
+chen-etal-2023-empowering,2023,yes,Empowering Psychotherapy with Large Language Models: Cognitive Distortion Detection through Diagnosis of Thought Prompting
+chen-etal-2023-controllable,2023,yes,Controllable Mixed-Initiative Dialogue Generation through Prompting
+chavan-etal-2023-pict,2023,yes,"{PICT}-{CLRL} at {WASSA} 2023 Empathy, Emotion and Personality Shared Task: Empathy and Distress Detection using Ensembles of Transformer Models"
+cercas-curry-cercas-curry-2023-computer,2023,yes,Computer says ``No'': The Case Against Empathetic Conversational {AI}
+cai-etal-2023-improving,2023,yes,Improving Empathetic Dialogue Generation by Dynamically Infusing Commonsense Knowledge
+bi-etal-2023-diffusemp,2023,yes,{D}iffus{E}mp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation
+belkhir-sadat-2023-beyond,2023,yes,Beyond Information: Is {C}hat{GPT} Empathetic Enough?
+belani-flanigan-2023-automatic,2023,no,Automatic Identification of Code-Switching Functions in Speech Transcripts
+barriere-etal-2023-findings,2023,no,"Findings of {WASSA} 2023 Shared Task on Empathy, Emotion and Personality Detection in Conversation and Reactions to News Articles"
+ang-etal-2023-socratic,2023,no,"Socratic Question Generation: A Novel Dataset, Models, and Evaluation"
+zhu-etal-2022-multi,2022,yes,Multi-Party Empathetic Dialogue Generation: A New Task for Dialog Systems
+zhou-etal-2022-towards,2022,yes,Towards Enhancing Health Coaching Dialogue in Low-Resource Settings
+yao-etal-2022-d4,2022,yes,D4: a {C}hinese Dialogue Dataset for Depression-Diagnosis-Oriented Chat
+xu-etal-2022-mmdag,2022,yes,{MMDAG}: Multimodal Directed Acyclic Graph Network for Emotion Recognition in Conversation
+wu-etal-2022-towards-context,2022,yes,Towards In-Context Non-Expert Evaluation of Reflection Generation for Counselling Conversations
+welivita-pu-2022-curating,2022,yes,Curating a Large-Scale Motivational Interviewing Dataset Using Peer Support Forums
+wang-torres-2022-helpful,2022,no,How to be Helpful on Online Support Forums?
+wang-etal-2022-empathetic,2022,no,Empathetic Dialogue Generation via Sensitive Emotion Recognition and Sensible Knowledge Selection
+wang-etal-2022-care,2022,no,{CARE}: Causality Reasoning for Empathetic Responses by Conditional Graph Generation
+vasava-etal-2022-transformer,2022,yes,Transformer-based Architecture for Empathy Prediction and Emotion Classification
+tu-etal-2022-misc,2022,no,{MISC}: A Mixed Strategy-Aware Model integrating {COMET} for Emotional Support Conversation
+tiwari-etal-2022-iaemp,2022,no,{IAE}mp: Intent-aware Empathetic Response Generation
+tian-etal-2022-empathetic,2022,yes,Empathetic and Emotionally Positive Conversation Systems with an Emotion-specific Query-Response Memory
+svikhnushina-etal-2022-taxonomy,2022,yes,A Taxonomy of Empathetic Questions in Social Dialogs
+svikhnushina-etal-2022-ieval,2022,yes,i{E}val: Interactive Evaluation Framework for Open-Domain Empathetic Chatbots
+sotudeh-etal-2022-mentsum,2022,no,{M}ent{S}um: A Resource for Exploring Summarization of Mental Health Online Posts
+sotudeh-etal-2022-curriculum,2022,yes,Curriculum-guided Abstractive Summarization for Mental Health Online Posts
+sosea-etal-2022-emotion,2022,yes,Emotion analysis and detection during {COVID}-19
+sosea-caragea-2022-ensynet,2022,yes,{E}nsy{N}et: A Dataset for Encouragement and Sympathy Detection
+singh-rios-2022-linguistic,2022,no,Linguistic Elements of Engaging Customer Service Discourse on Social Media
+singh-etal-2022-emoinhindi,2022,no,{E}mo{I}n{H}indi: A Multi-label Emotion and Intensity Annotated Dataset in {H}indi for Emotion Recognition in Dialogues
+shen-etal-2022-knowledge,2022,no,Knowledge Enhanced Reflection Generation for Counseling Dialogues
+shapira-etal-2022-measuring,2022,no,Measuring Linguistic Synchrony in Psychotherapy
+samad-etal-2022-empathetic,2022,yes,Empathetic Persuasion: Reinforcing Empathy and Persuasiveness in Dialogue Systems
+saha-etal-2022-shoulder,2022,yes,A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony
+qian-etal-2022-surrey,2022,yes,"{SURREY}-{CTS}-{NLP} at {WASSA}2022: An Experiment of Discourse and Sentiment Analysis for the Prediction of Empathy, Distress and Emotion"
+norre-etal-2022-investigating,2022,no,Investigating the Medical Coverage of a Translation System into Pictographs for Patients with an Intellectual Disability
+moorjani-etal-2022-audience,2022,yes,Audience-Centric Natural Language Generation via Style Infusion
+mishra-etal-2022-pepds,2022,yes,{PEPDS}: A Polite and Empathetic Persuasive Dialogue System for Charity Donation
+minghui-etal-2022-using,2022,no,Using Extracted Emotion Cause to Improve Content-Relevance for Empathetic Conversation Generation
+min-etal-2022-pair,2022,no,{PAIR}: Prompt-Aware marg{I}n Ranking for Counselor Reflection Scoring in Motivational Interviewing
+meyer-elsweiler-2022-glohbcd,2022,yes,{GL}o{HBCD}: A Naturalistic {G}erman Dataset for Language of Health Behaviour Change on Online Support Forums
+mehta-etal-2022-psychotherapy,2022,yes,Psychotherapy is Not One Thing: Simultaneous Modeling of Different Therapeutic Approaches
+maheshwari-varma-2022-ensemble,2022,no,An Ensemble Approach to Detect Emotions at an Essay Level
+lybarger-etal-2022-identifying,2022,yes,Identifying Distorted Thinking in Patient-Therapist Text Message Exchanges by Leveraging Dynamic Multi-Turn Context
+lin-etal-2022-knowledge,2022,yes,Knowledge-Grounded Conversational Data Augmentation with Generative Conversational Networks
+li-etal-2022-continuing,2022,yes,Continuing Pre-trained Model with Multiple Training Strategies for Emotional Classification
+lee-etal-2022-gpt,2022,yes,Does {GPT}-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation
+lee-etal-2022-corpus,2022,no,A Corpus of Simulated Counselling Sessions with Dialog Act Annotation
+lahnala-etal-2022-mitigating,2022,yes,Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy
+lahnala-etal-2022-critical,2022,yes,A Critical Reflection and Forward Perspective on Empathy and Natural Language Processing
+lahnala-etal-2022-caisa,2022,yes,{CAISA} at {WASSA} 2022: Adapter-Tuning for Empathy Prediction
+kraus-etal-2022-prodial,2022,no,{P}ro{D}ial {--} An Annotated Proactive Dialogue Act Corpus for Conversational Assistants using Crowdsourcing
+kosgi-etal-2022-empathic,2022,no,Empathic Machines: Using Intermediate Features as Levers to Emulate Emotions in Text-To-Speech Systems
+kim-etal-2022-emp,2022,no,Emp-{RFT}: Empathetic Response Generation via Recognizing Feature Transitions between Utterances
+jung-etal-2022-emotion,2022,yes,An Emotion-based {K}orean Multimodal Empathetic Dialogue System
+ireland-etal-2022-tracking,2022,no,Tracking Mental Health Risks and Coping Strategies in Healthcare Workers' Online Conversations Across the {COVID}-19 Pandemic
+ide-kawahara-2022-building,2022,yes,Building a Dialogue Corpus Annotated with Expressed and Experienced Emotions
+huang-chang-2022-improving,2022,yes,Improving Response Diversity through Commonsense-Aware Empathetic Response Generation
+hosseini-caragea-2022-calibrating,2022,yes,Calibrating Student Models for Emotion-related Tasks
+gupta-etal-2022-learning,2022,yes,Learning to Automate Follow-up Question Generation using Process Knowledge for Depression Triage on {R}eddit Posts
+girju-girju-2022-design,2022,yes,Design Considerations for an {NLP}-Driven Empathy and Emotion Interface for Clinician Training via Telemedicine
+ghosh-etal-2022-team,2022,yes,"Team {IITP}-{AINLPML} at {WASSA} 2022: Empathy Detection, Emotion Classification and Personality Detection"
+firdaus-etal-2022-polise,2022,yes,{P}oli{S}e: Reinforcing Politeness Using User Sentiment for Customer Care Response Generation
+falk-lapesa-2022-reports,2022,yes,Reports of personal experiences and stories in argumentation: datasets and analysis
+ding-etal-2022-improving,2022,yes,Improving Classification of Infrequent Cognitive Distortions: Domain-Specific Model vs. Data Augmentation
+dey-girju-2022-enriching,2022,yes,Enriching Deep Learning with Frame Semantics for Empathy Classification in Medical Narrative Essays
+del-arco-etal-2022-empathy,2022,yes,Empathy and Distress Prediction using Transformer Multi-output Regression and Emotion Analysis with an Ensemble of Supervised and Zero-Shot Learning Models
+das-etal-2022-using,2022,yes,Using Multi-Encoder Fusion Strategies to Improve Personalized Response Selection
+das-etal-2022-conversational,2022,yes,Conversational Bots for Psychotherapy: A Study of Generative Transformer Models Using Domain-specific Dialogues
+cheng-etal-2022-improving,2022,no,Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning
+chen-liang-2022-wish,2022,no,Wish {I} Can Feel What You Feel: A Neural Approach for Empathetic Response Generation
+chen-etal-2022-leveraging-open,2022,yes,Leveraging Open Data and Task Augmentation to Automated Behavioral Coding of Psychotherapy Conversations in Low-Resource Scenarios
+chen-etal-2022-iucl,2022,no,{IUCL} at {WASSA} 2022 Shared Task: A Text-only Approach to Empathy and Emotion Detection
+chen-etal-2022-emphi,2022,no,{E}mp{H}i: Generating Empathetic Responses with Human-like Intents
+burkhardt-etal-2022-comparing,2022,yes,Comparing emotion feature extraction approaches for predicting depression and anxiety
+bialer-etal-2022-detecting,2022,yes,Detecting Suicide Risk in Online Counseling Services: A Study in a Low-Resource Language
+bhandari-goyal-2022-bitsa,2022,yes,bitsa{\_}nlp@{LT}-{EDI}-{ACL}2022: Leveraging Pretrained Language Models for Detecting Homophobia and Transphobia in Social Media Comments
+bayerl-etal-2022-ksof,2022,no,{KS}o{F}: The Kassel State of Fluency Dataset {--} A Therapy Centered Dataset of Stuttering
+barriere-etal-2022-wassa,2022,no,"{WASSA} 2022 Shared Task: Predicting Empathy, Emotion and Personality in Reaction to News Stories"
+zheng-etal-2021-comae,2021,no,{C}o{MAE}: A Multi-factor Hierarchical Framework for Empathetic Response Generation
+zeng-etal-2021-affective,2021,yes,Affective Decoding for Empathetic Response Generation
+yoo-etal-2021-empathy,2021,yes,Empathy and Hope: Resource Transfer to Model Inter-country Social Media Dynamics
+xie-pu-2021-empathetic,2021,yes,Empathetic Dialog Generation with Fine-Grained Intents
+wu-etal-2021-transferable,2021,no,Transferable Persona-Grounded Dialogues via Grounded Minimal Edits
+wu-etal-2021-towards,2021,yes,Towards Low-Resource Real-Time Assessment of Empathy in Counselling
+welivita-etal-2021-large,2021,yes,A Large-Scale Dataset for Empathetic Response Generation
+wei-etal-2021-linguistic,2021,no,Linguistic Complexity Loss in Text-Based Therapy
+wambsganss-etal-2021-supporting,2021,no,Supporting Cognitive and Emotional Empathic Writing of Students
+vettigli-sorgente-2021-empna,2021,no,"{E}mp{N}a at {WASSA} 2021: A Lightweight Model for the Prediction of Empathy, Distress and Emotions from Reactions to News Stories"
+varshney-etal-2021-modelling,2021,yes,Modelling Context Emotions using Multi-task Learning for Emotion Controlled Dialog Generation
+vanderlyn-etal-2021-seemed,2021,yes,``It seemed like an annoying woman'': On the Perception and Ethical Considerations of Affective Language in Text-Based Conversational Agents
+tsakalidis-etal-2021-automatic,2021,yes,Automatic Identification of Ruptures in Transcribed Psychotherapy Sessions
+tsai-etal-2021-style,2021,yes,Style Control for Schema-Guided Natural Language Generation
+tavabi-etal-2021-analysis,2021,no,Analysis of Behavior Classification in Motivational Interviewing
+tafreshi-etal-2021-wassa,2021,no,{WASSA} 2021 Shared Task: Predicting Empathy and Emotion in Reaction to News Stories
+sun-etal-2021-psyqa,2021,no,{P}sy{QA}: A {C}hinese Dataset for Generating Long Counseling Text for Mental Health Support
+shreevastava-foltz-2021-detecting,2021,yes,Detecting Cognitive Distortions from Patient-Therapist Interactions
+shim-2021-development,2021,yes,Development of Conversational {AI} for Sleep Coaching Programme
+shen-etal-2021-constructing-emotional,2021,no,Constructing Emotional Consensus and Utilizing Unpaired Data for Empathetic Dialogue Generation
+shapira-etal-2021-hebrew,2021,no,{H}ebrew Psychological Lexicons
+roller-etal-2021-recipes,2021,yes,Recipes for Building an Open-Domain Chatbot
+natarajan-nargund-2021-mre,2021,no,{MRE} : Multi Relationship Extractor for Persona based Empathetic Conversational Model
+naous-etal-2021-empathetic,2021,yes,Empathetic {BERT}2{BERT} Conversational Model: Learning {A}rabic Language Generation with Little Data
+mundra-etal-2021-wassa,2021,yes,{WASSA}@{IITK} at {WASSA} 2021: Multi-task Learning and Transformer Finetuning for Emotion Classification and Empathy Prediction
+mousavi-etal-2021-like,2021,no,Would you like to tell me more? Generating a corpus of psychotherapy dialogues
+mondal-etal-2021-linguistic,2021,yes,A Linguistic Annotation Framework to Study Interactions in Multilingual Healthcare Conversational Forums
+min-etal-2021-evaluating,2021,yes,Evaluating Automatic Speech Recognition Quality and Its Impact on Counselor Utterance Coding
+lu-etal-2021-retrieve-discriminate,2021,yes,"Retrieve, Discriminate and Rewrite: A Simple and Effective Framework for Obtaining Affective Response in Retrieval-Based Chatbots"
+liu-etal-2021-towards,2021,yes,Towards Emotional Support Dialog Systems
+liang-etal-2021-evaluation,2021,yes,Evaluation of In-Person Counseling Strategies To Develop Physical Activity Chatbot for Women
+li-etal-2021-large,2021,no,Large-Scale Quantitative Evaluation of Dialogue Agents' Response Strategies against Offensive Users
+lee-etal-2021-restatement,2021,yes,Restatement and Question Generation for Counsellor Chatbot
+lahnala-etal-2021-exploring,2021,no,Exploring Self-Identified Counseling Expertise in Online Support Forums
+kulkarni-etal-2021-pvg,2021,yes,"{PVG} at {WASSA} 2021: A Multi-Input, Multi-Task, Transformer-Based Architecture for Empathy and Distress Prediction"
+kim-etal-2021-perspective,2021,no,Perspective-taking and Pragmatics for Generating Empathetic Responses Focused on Emotion Causes
+jang-etal-2021-bpm,2021,yes,{BPM}{\_}{MT}: Enhanced Backchannel Prediction Model using Multi-Task Learning
+ishii-etal-2021-erica,2021,yes,{ERICA}: An Empathetic Android Companion for Covid-19 Quarantine
+inoue-etal-2021-multi,2021,no,A multi-party attentive listening robot which stimulates involvement from side participants
+hu-etal-2021-mmgcn,2021,yes,{MMGCN}: Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation
+hu-etal-2021-dialoguecrn,2021,yes,{D}ialogue{CRN}: Contextual Reasoning Networks for Emotion Recognition in Conversations
+hosseini-caragea-2021-distilling-knowledge,2021,no,Distilling Knowledge for Empathy Detection
+guo-choi-2021-enhancing,2021,yes,Enhancing Cognitive Models of Emotions with Representation Learning
+guda-etal-2021-empathbert,2021,yes,{E}mpath{BERT}: A {BERT}-based Framework for Demographic-aware Empathy Prediction
+gogoulou-etal-2021-predicting,2021,yes,Predicting Treatment Outcome from Patient Texts:The Case of {I}nternet-Based Cognitive Behavioural Therapy
+gao-etal-2021-improving-empathetic,2021,no,Improving Empathetic Response Generation by Recognizing Emotion Cause in Conversations
+fornaciari-etal-2021-milanlp,2021,yes,{M}ila{NLP} @ {WASSA}: Does {BERT} Feel Sad When You Cry?
+dinu-moldovan-2021-automatic,2021,yes,Automatic Detection and Classification of Mental Illnesses from General Social Media Texts
+de-toledo-rodriguez-etal-2021-formulating,2021,no,Formulating Automated Responses to Cognitive Distortions for {CBT} Interactions
+chen-etal-2021-nice-neural,2021,no,{NICE}: Neural Image Commenting with Empathy
+butala-etal-2021-team,2021,yes,Team Phoenix at {WASSA} 2021: Emotion Analysis on News Stories with Pre-Trained Language Models
+andy-etal-2021-understanding,2021,no,Understanding Social Support Expressed in a {COVID}-19 Online Forum
+zhou-jurgens-2020-condolence,2020,no,Condolence and Empathy in Online Communities
+zhou-etal-2020-design,2020,yes,"The Design and Implementation of {X}iao{I}ce, an Empathetic Social Chatbot"
+zhong-etal-2020-towards,2020,yes,Towards Persona-Based Empathetic Conversational Models
+zhang-danescu-niculescu-mizil-2020-balancing,2020,no,Balancing Objectives in Counseling Conversations: Advancing Forwards or Looking Backwards
+welivita-pu-2020-taxonomy,2020,yes,A Taxonomy of Empathetic Response Intents in Human Social Conversations
+welch-etal-2020-expressive,2020,yes,Expressive Interviewing: A Conversational System for Coping with {COVID}-19
+wang-etal-2020-contextualized,2020,yes,Contextualized Emotion Recognition in Conversation as Sequence Tagging
+smith-etal-2020-put,2020,yes,Can You Put it All Together: Evaluating Conversational Agents' Ability to Blend Skills
+singla-etal-2020-towards,2020,yes,Towards end-2-end learning for predicting behavior codes from spoken utterances in psychotherapy conversations
+shuster-etal-2020-dialogue,2020,yes,The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents
+shen-feng-2020-cdl,2020,no,{CDL}: Curriculum Dual Learning for Emotion-Controllable Response Generation
+shen-etal-2020-counseling,2020,yes,Counseling-Style Reflection Generation Using Generative Pretrained Transformers with Augmented Context
+sharma-etal-2020-computational,2020,no,A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support
+sedoc-etal-2020-learning,2020,yes,Learning Word Ratings for Empathy and Distress from Document-Level User Responses
+sanguinetti-etal-2020-annotating,2020,yes,Annotating Errors and Emotions in Human-Chatbot Interactions in {I}talian
+rawsthorne-etal-2020-extra,2020,yes,{E}x{TRA}: Explainable Therapy-Related Annotations
+popa-fabre-etal-2020-french,2020,yes,{F}rench Contextualized Word-Embeddings with a sip of {C}a{B}e{R}net: a New {F}rench Balanced Reference Corpus
+phy-etal-2020-deconstruct,2020,yes,Deconstruct to Reconstruct a Configurable Evaluation Metric for Open-Domain Dialogue Systems
+naous-etal-2020-empathy,2020,yes,Empathy-driven {A}rabic Conversational Chatbot
+majumder-etal-2020-mime,2020,no,{MIME}: {MIM}icking Emotions for Empathetic Response Generation
+madeira-etal-2020-framework,2020,yes,A Framework to Assist Chat Operators of Mental Healthcare Services
+li-etal-2020-empdg,2020,yes,{E}mp{DG}: Multi-resolution Interactive Empathetic Dialogue Generation
+lee-etal-2020-counselling,2020,yes,A Counselling Corpus in {C}antonese
+ito-etal-2020-relation,2020,no,Relation between Degree of Empathy for Narrative Speech and Type of Responsive Utterance in Attentive Listening
+inoue-etal-2020-attentive,2020,no,An Attentive Listening System with Android {ERICA}: Comparison of Autonomous and {WOZ} Interactions
+grandeit-etal-2020-using,2020,yes,Using {BERT} for Qualitative Content Analysis in Psychosocial Online Counseling
+govindarajan-etal-2020-help,2020,yes,Help! Need Advice on Identifying Advice
+gala-etal-2020-alector,2020,no,{A}lector: A Parallel Corpus of Simplified {F}rench Texts with Alignments of Misreadings by Poor and Dyslexic Readers
+firdaus-etal-2020-incorporating,2020,yes,Incorporating Politeness across Languages in Customer Care Responses: Towards building a Multi-lingual Empathetic Dialogue Agent
+fassetti-fassetti-2020-automatic,2020,no,An Automatic Tool For Language Evaluation
+demszky-etal-2020-goemotions,2020,yes,{G}o{E}motions: A Dataset of Fine-Grained Emotions
+demasi-etal-2020-multi,2020,yes,A Multi-Persona Chatbot for Hotline Counselor Training
+biester-etal-2020-quantifying,2020,no,Quantifying the Effects of {COVID}-19 on Mental Health Support Forums
+zhang-etal-2019-finding,2019,no,Finding Your Voice: The Linguistic Development of Mental Health Counselors
+tang-etal-2019-target,2019,no,Target-Guided Open-Domain Conversation
+rashkin-etal-2019-towards,2019,no,Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset
+rajendran-etal-2019-ne,2019,yes,{NE}-Table: A Neural key-value table for Named Entities
+perez-rosas-etal-2019-makes,2019,no,What Makes a Good Counselor? Learning to Distinguish between High-quality and Low-quality Counseling Conversations
+park-etal-2019-conversation,2019,yes,Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues
+mahajan-shaikh-2019-emoji,2019,no,Emoji Usage Across Platforms: A Case Study for the Charlottesville Event
+lin-etal-2019-moel,2019,yes,{M}o{EL}: Mixture of Empathetic Listeners
+lee-etal-2019-identifying,2019,no,Identifying therapist conversational actions across diverse psychotherapeutic approaches
+demasi-etal-2019-towards,2019,no,Towards augmenting crisis counselor training by improving message retrieval
+cao-etal-2019-observing,2019,no,Observing Dialogue in Therapy: Categorizing and Forecasting Behavioral Codes
+azab-etal-2019-towards,2019,no,Towards Extracting Medical Family History from Natural Language Interactions: A New Dataset and Baselines
+zhou-wang-2018-mojitalk,2018,yes,{M}oji{T}alk: Generating Emotional Responses at Scale
+zayed-etal-2018-phrase,2018,yes,Phrase-Level Metaphor Identification Using Distributed Representations of Word Meaning
+rojas-barahona-etal-2018-deep,2018,yes,Deep learning for language understanding of mental health concepts derived from Cognitive Behavioural Therapy
+pirrelli-2018-nlp,2018,yes,{NLP}-based Assessment of Reading Efficiency in Early Grade Children
+perez-rosas-etal-2018-analyzing,2018,no,Analyzing the Quality of Counseling Conversations: the Tell-Tale Signs of High-quality Counseling
+mieskes-stiegelmayr-2018-preparing,2018,yes,Preparing Data from Psychotherapy for Natural Language Processing
+lubis-etal-2018-unsupervised,2018,yes,Unsupervised Counselor Dialogue Clustering for Positive Emotion Elicitation in Neural Dialogue System
+loveys-etal-2018-cross,2018,yes,Cross-cultural differences in language markers of depression online
+kaushik-lipton-2018-much,2018,no,How Much Reading Does Reading Comprehension Require? A Critical Investigation of Popular Benchmarks
+huang-etal-2018-modeling,2018,yes,Modeling Temporality of Human Intentions by Domain Adaptation
+holz-etal-2018-coast,2018,no,{COAST} - Customizable Online Syllable Enhancement in Texts. A flexible framework for automatically enhancing reading materials
+hoang-etal-2018-entity,2018,no,Entity Tracking Improves Cloze-style Reading Comprehension
+hazarika-etal-2018-icon,2018,no,{ICON}: Interactive Conversational Memory Network for Multimodal Emotion Detection
+hazarika-etal-2018-conversational,2018,no,Conversational Memory Network for Emotion Recognition in Dyadic Dialogue Videos
+guerini-etal-2018-methodology,2018,yes,A Methodology for Evaluating Interaction Strategies of Task-Oriented Conversational Agents
+ghaeini-etal-2018-dependent,2018,yes,Dependent Gated Reading for Cloze-Style Question Answering
+chiba-etal-2018-analysis,2018,yes,An Analysis of the Effect of Emotional Speech Synthesis on Non-Task-Oriented Dialogue System
+buechel-etal-2018-modeling,2018,no,Modeling Empathy and Distress in Reaction to News Stories
+altszyler-etal-2018-using,2018,no,Using contextual information for automatic triage of posts in a peer-support forum
+ward-gallardo-2017-non,2017,no,Non-Native Differences in Prosodic-Construction Use
+siddique-etal-2017-zara,2017,no,{Z}ara Returns: Improved Personality Induction and Adaptation by an Empathetic Virtual Agent
+salem-etal-2017-game,2017,no,A Game with a Purpose for Automatic Detection of Children{'}s Speech Disabilities using Limited Speech Resources
+perez-rosas-etal-2017-understanding,2017,no,Understanding and Predicting Empathic Behavior in Counseling Therapy
+perez-rosas-etal-2017-predicting,2017,no,Predicting Counselor Behaviors in Motivational Interviewing Encounters
+miller-etal-2017-parlai,2017,yes,{P}arl{AI}: A Dialog Research Software Platform
+kshirsagar-etal-2017-detecting,2017,no,Detecting and Explaining Crisis
+khanpour-etal-2017-identifying,2017,no,Identifying Empathetic Messages in Online Health Communities
+halder-etal-2017-modeling,2017,no,Modeling Temporal Progression of Emotional Status in Mental Health Forum: A Recurrent Neural Net Approach
+addawood-etal-2017-telling,2017,no,Telling Apart Tweets Associated with Controversial versus Non-Controversial Topics
+tanana-etal-2016-sentiment,2016,no,Is Sentiment in Movies the Same as Sentiment in Psychotherapy? Comparisons Using a New Psychotherapy Sentiment Database
+perez-rosas-etal-2016-building,2016,no,Building a Motivational Interviewing Dataset
+litvak-etal-2016-social,2016,no,Social and linguistic behavior and its correlation to trait empathy
+fung-etal-2016-zara-supergirl,2016,no,{Z}ara The {S}upergirl: An Empathetic Personality Recognition System
+fung-etal-2016-zara,2016,yes,"{Z}ara: A Virtual Interactive Dialogue System Incorporating Emotion, Sentiment and Personality Recognition"
+althoff-etal-2016-large,2016,yes,Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health
+alam-etal-2016-interlocutors,2016,no,How Interlocutors Coordinate with each other within Emotional Segments?
+tanana-etal-2015-recursive,2015,no,Recursive Neural Networks for Coding Therapist and Patient Behavior in Motivational Interviewing
+maskit-etal-2015-computer,2015,no,A Computer Program for Tracking the Evolution of a Psychotherapy Treatment
+denis-etal-2014-synalp,2014,yes,Synalp-Empathic: A Valence Shifting Hybrid System for Sentiment Analysis
+bocklet-etal-2014-erlangen,2014,no,Erlangen-{CLP}: A Large Annotated Corpus of Speech from Children with Cleft Lip and Palate
+han-etal-2013-counseling,2013,yes,Counseling Dialog System with 5{W}1{H} Extraction
+bhargava-etal-2013-demonstration,2013,no,Demonstration of the {E}mote{W}izard of {O}z Interface for Empathic Robotic Tutors
+suarez-etal-2012-building,2012,no,Building a Multimodal Laughter Database for Emotion Recognition
+webb-etal-2010-wizard,2010,yes,{W}izard of {O}z Experiments for a Companion Dialogue System: Eliciting Companionable Conversation
+saggion-etal-2010-nlp,2010,yes,{NLP} Resources for the Analysis of Patient/Therapist Interviews
+saggion-etal-2010-human,2010,no,Human Language Technology for Text-based Analysis of Psychotherapy Sessions in the {S}panish Language
+pedersen-larsen-2010-speech,2010,no,A Speech Corpus for Dyslexic Reading Training
+patrick-1999-tagging,1999,no,Tagging Psychotherapeutic Interviews for Linguistic Analysis
+clippinger-jr-1980-meaning,1980,no,Meaning and Discourse - A Computer Model of Psychoanalytic Speech and Cognition

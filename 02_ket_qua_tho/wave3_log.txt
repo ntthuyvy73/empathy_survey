@@ -1,0 +1,35 @@
+run_date=2026-07-31
+cutoff=2026-07-31
+year_floor=NONE
+A3_terms=43
+C3_terms=39
+
+[ACL] quet 128618 entry -> khop A3 (moi nam)=641 (trong do khop them C3=469) -> H:\Vy\Paper\Empathy\Report\_Chuan_bi\_analyst_v7\vy\New folder\ket_qua_phan_tich\bai_bao\search_exports\acl_w3.ris
+
+[OpenAlex] khong san nam, den 2026-07-31 | type=article|review|preprint|proceedings-article
+  [OpenAlex/full] server khop=18637
+  [OpenAlex] giu sau loc client A3&C3 (moi nam)=7251 -> H:\Vy\Paper\Empathy\Report\_Chuan_bi\_analyst_v7\vy\New folder\ket_qua_phan_tich\bai_bao\search_exports\openalex_w3.ris
+
+[PubMed] term len=2177 | 1800..2026-07-31
+  !! PubMed that bai: esearch POST that bai
+
+[arXiv] query len=2055 | khong san nam, den 2026-07-31
+  !! arXiv that bai: Khong lay duoc trang start=0
+
+================= TONG WAVE 3 =================
+  Cua so: KHONG san nam .. 2026-07-31 | A3(43 term) AND C3(39 term); ACL chi A3
+  ACL      : 641
+  OpenAlex : 7251
+  PubMed   : FAIL: RuntimeError: esearch POST that bai
+  arXiv    : FAIL: RuntimeError: Khong lay duoc trang start=0
+  (WoS/Scopus: khong tu dong duoc — neu can, chay tay chuoi A3 AND C3 tren giao dien)
+  Thoi gian chay: 596s
+
+[arxiv-retry] luot 3: THANH CONG — 1221 ban ghi (run 2026-07-31)
+
+[arXiv] query len=2055 | khong san nam, den 2026-07-31
+
+[arXiv] query len=2055 | khong san nam, den 2026-07-31
+
+[arXiv] query len=2055 | khong san nam, den 2026-07-31
+  [arXiv] api_total=1221 -> giu (den 2026-07-31, moi nam)=1221 -> H:\Vy\Paper\Empathy\Report\_Chuan_bi\_analyst_v7\vy\New folder\ket_qua_phan_tich\bai_bao\search_exports\arxiv_w3.ris
